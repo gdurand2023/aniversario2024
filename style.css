@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #152285;
+}
+.conten1 img{
+  height: 100px;
+}
+.conten1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  font-size: 60px;
+  margin: 30px;
+  color:#d4d9fa;
+}
+.pastel img{
+  height: 400px;
+}
+.pastel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.conten2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
